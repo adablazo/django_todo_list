@@ -1,0 +1,1 @@
+cat ~/DjangoENV/FirstDjango/FirstDjango/urls.py ~/DjangoENV/FirstDjango/todo_list/models.py ~/DjangoENV/FirstDjango/todo_list/forms.py ~/DjangoENV/FirstDjango/todo_list/views.py > output.txt
